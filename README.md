@@ -1,6 +1,4 @@
-Nom: Diallo
-Prénom: Ousmane
-    MASTER 2 GL 
+Ousmane DIALLO MASTER 2 GL 
 
 Bonsoir monsieur, ce code marche mais j'ai eu un problème avec mon serveur raison pour laquelle j'ai pas euaccès à l'url: http://localhost:8080/services/calendar/dayfinder
 
